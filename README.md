@@ -11,9 +11,7 @@
 ![alt text](image.png)
 
 
-
-##빌드 결과
-
+## 빌드 결과
 
 NAME : Umar, POINT : 48, GRADE : SILVER
 NAME : Daisy, POINT : 45, GRADE : SILVER
